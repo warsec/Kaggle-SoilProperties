@@ -1,4 +1,4 @@
-setwd("C:/Users/Warsec/Desktop/Soil Model")
+setwd("../Soil Model")
 
 #library 
 library(caret)

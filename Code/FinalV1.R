@@ -1,4 +1,4 @@
-setwd("C:/Users/Warsec/Desktop/Soil Model")
+setwd("../Soil Model")
 
 #Load required libraries
 library(ggplot2)#Used for plotting the data
