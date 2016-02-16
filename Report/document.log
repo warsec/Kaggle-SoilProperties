@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.28)  11 APR 2015 01:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.28)  16 FEB 2016 16:42
 entering extended mode
 **document.tex
 
-("C:\Users\Warsec\Desktop\Courses\OLD\3. Fall 2014\STAT 576 - Multivariate Data
- Mining\Soil Model\Report\document.tex"
+("C:\Users\Warsec\Desktop\Courses\3. Fall 2014\STAT 576 - Multivariate Data Min
+ing\Soil Model\Report\document.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -41,8 +41,8 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
-Language: english 2005/03/30 v3.3o English support from the babel system
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
@@ -506,8 +506,8 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-("C:\Users\Warsec\Desktop\Courses\OLD\3. Fall 2014\STAT 576 - Multivariate Data
- Mining\Soil Model\Report\document.aux")
+("C:\Users\Warsec\Desktop\Courses\3. Fall 2014\STAT 576 - Multivariate Data Min
+ing\Soil Model\Report\document.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -575,112 +575,145 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 <logo.png, id=4, 289.08pt x 163.3302pt>
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 55.
+Package pdftex.def Info: logo.png used on input line 53.
 (pdftex.def)             Requested size: 72.26999pt x 40.83244pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Warsec/Desktop/C
-ourses/OLD/3. Fall 2014/STAT 576 - Multivariate Data Mining/Soil Model/Report/l
-ogo.png>]
+ourses/3. Fall 2014/STAT 576 - Multivariate Data Mining/Soil Model/Report/logo.
+png>]
+
+LaTeX Warning: Citation `kuang20124' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation `viscarra2009improved' on page 1 undefined on input lin
+e 63.
+
+
+LaTeX Warning: Citation `viscarra2006visible' on page 1 undefined on input line
+ 63.
+
+
+LaTeX Warning: Citation `martens1989multivariate' on page 1 undefined on input 
+line 65.
+
+
+LaTeX Warning: Citation `wold1983multivariate' on page 1 undefined on input lin
+e 65.
+
+
+LaTeX Warning: Citation `dalal1986simultaneous' on page 1 undefined on input li
+ne 65.
+
+
+LaTeX Warning: Citation `chang2001near' on page 1 undefined on input line 65.
+
+
+LaTeX Warning: Citation `daniel2003artificial' on page 1 undefined on input lin
+e 65.
+
+
+LaTeX Warning: Citation `shepherd2002development' on page 1 undefined on input 
+line 65.
+
+
+LaTeX Warning: Citation `brown2006global' on page 1 undefined on input line 65.
+
+
+
+LaTeX Warning: Citation `viscarra2007robust' on page 1 undefined on input line 
+65.
+
+
+LaTeX Warning: Citation `stevens2008laboratory' on page 1 undefined on input li
+ne 65.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 75.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 73.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 73.
  [1]
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-[2]
-Overfull \hbox (4.89713pt too wide) in paragraph at lines 115--116
+
+Overfull \hbox (4.89713pt too wide) in paragraph at lines 113--114
 []\OT1/cmr/m/n/12 TMAP and TMFI: av-er-age long-term Trop-i-cal Rain-fall Mon-i
 -tor-ing Mis-sion data (TMAP
  []
 
-<Rplot.png, id=23, 1011.78pt x 518.6878pt>
+[2] <Rplot.png, id=23, 1011.78pt x 518.6878pt>
 File: Rplot.png Graphic file (type png)
  <use Rplot.png>
-Package pdftex.def Info: Rplot.png used on input line 124.
+Package pdftex.def Info: Rplot.png used on input line 122.
 (pdftex.def)             Requested size: 469.75502pt x 240.82326pt.
- [3 <C:/Users/Warsec/Desktop/Courses/OLD/3. Fall 2014/STAT 576 - Multivariate D
-ata Mining/Soil Model/Report/Rplot.png>] [4] [5] <Table.png, id=34, 401.24907pt
- x 135.50626pt>
+ [3 <C:/Users/Warsec/Desktop/Courses/3. Fall 2014/STAT 576 - Multivariate Data 
+Mining/Soil Model/Report/Rplot.png>] [4] [5] <Table.png, id=34, 401.24907pt x 1
+35.50626pt>
 File: Table.png Graphic file (type png)
 
 <use Table.png>
-Package pdftex.def Info: Table.png used on input line 202.
+Package pdftex.def Info: Table.png used on input line 200.
 (pdftex.def)             Requested size: 284.54596pt x 113.81412pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
-[6 <C:/Users/Warsec/Desktop/Courses/OLD/3. Fall 2014/STAT 576 - Multivariate Da
-ta Mining/Soil Model/Report/Table.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+[6 <C:/Users/Warsec/Desktop/Courses/3. Fall 2014/STAT 576 - Multivariate Data M
+ining/Soil Model/Report/Table.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--228
+Underfull \hbox (badness 10000) in paragraph at lines 221--226
 
  []
 
 [7]
-("C:\Users\Warsec\Desktop\Courses\OLD\3. Fall 2014\STAT 576 - Multivariate Data
- Mining\Soil Model\Report\document.bbl"
-Underfull \hbox (badness 4995) in paragraph at lines 10--14
-[]\OT1/cmr/m/n/12 D. J. Brown,
- []
+("C:\Users\Warsec\Desktop\Courses\3. Fall 2014\STAT 576 - Multivariate Data Min
+ing\Soil Model\Report\document.bbl"
 
+LaTeX Warning: Empty `thebibliography' environment on input line 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--43
-[]
- []
+) [8]
+("C:\Users\Warsec\Desktop\Courses\3. Fall 2014\STAT 576 - Multivariate Data Min
+ing\Soil Model\Report\document.aux")
 
+LaTeX Warning: There were undefined references.
 
-Overfull \hbox (7.40811pt too wide) in paragraph at lines 58--63
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--84
-[]
- []
-
-[8]) [9]
-("C:\Users\Warsec\Desktop\Courses\OLD\3. Fall 2014\STAT 576 - Multivariate Data
- Mining\Soil Model\Report\document.aux") ) 
+ ) 
 Here is how much of TeX's memory you used:
- 14007 strings out of 493921
+ 14005 strings out of 493921
  266691 string characters out of 3147278
- 311763 words of memory out of 3000000
- 17033 multiletter control sequences out of 15000+200000
- 10765 words of font info for 38 fonts, out of 3000000 for 9000
+ 310175 words of memory out of 3000000
+ 17030 multiletter control sequences out of 15000+200000
+ 10725 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  62i,6n,56p,1455b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on document.pdf (10 pages, 380377 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on document.pdf (9 pages, 368620 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
